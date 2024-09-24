@@ -63,3 +63,4 @@ mongoose
 // app.get('/', (req, res) => {
 //   res.send('MERN API');
 // });
+export default app; 
